@@ -1,0 +1,11 @@
+.iframe{
+    float:right;
+}
+
+.caja{
+    width: 280px;
+    height: 100px;
+    text-align: left;
+    border: 1px solid;
+    
+}
